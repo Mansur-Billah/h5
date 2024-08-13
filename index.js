@@ -18,7 +18,6 @@ function nameName(text) {
             var audioa= new Audio ("b.mp3");
             audioa.play();
             break;
-    
             case "c":
                 var audioa= new Audio ("c.mp3");
                 audioa.play();
